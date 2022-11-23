@@ -1,0 +1,3 @@
+Erstelle eine bash-script-datei, welche input zeile für zeile auswertet.
+Gebe die Quadratzahl aus (echo).
+Verwende Pipes um den input aus den Dateien zu verwenden und den output in eine Datei zu schreiben. 
