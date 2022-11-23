@@ -1,1 +1,1 @@
-asd
+In diesem Verzeichnis befindet sich ein Verzeichnis Dateien. In diesem befinden sich viele verschiedene Dateien. Lege im Verzeichis Dateien ein Verzeichnis Bilder an. Verschiebe alle Dateien mit der Endung .jpg in dieses Verzeichnis.
