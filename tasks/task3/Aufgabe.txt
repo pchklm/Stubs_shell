@@ -1,0 +1,1 @@
+In diesem Verzeichnis befinden sich 2 input Dateien mit Zahlen. Erstelle eine Datei, welche die Quadratzahlen aller Zahlen aus beiden input-Dateien enthält.
