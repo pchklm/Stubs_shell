@@ -1,0 +1,5 @@
+Lege ein neues Verzeichnis mit mkdir an.
+Erstelle ein bash-script-datei.
+Iteriere über alle Dateien.
+Prüfe, ob sie die Endung .jpg hat (Vergleich mit *".jpg").
+Verschiebe die Datei in das neue Verzeichnis mit mv.
